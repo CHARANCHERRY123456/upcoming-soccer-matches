@@ -23,3 +23,13 @@ This project displays upcoming **Bundesliga football matches** using real-time d
 
 ---
 
+🔗 API Reference
+
+API: https://www.openligadb.de/api/getmatchdata/bl1
+
+No API key required
+
+Returns match fixtures including team names, dates, and more
+
+
+
